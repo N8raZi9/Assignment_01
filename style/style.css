@@ -175,8 +175,8 @@ body {
 
 }
 .card-section{
-display: flex;
-    align-items: center;
+    display: flex;
+    align-content: center;
     justify-content: space-around;
     padding: 40px 10px;
     max-width: 1200px;
