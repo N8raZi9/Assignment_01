@@ -168,15 +168,14 @@ body {
 .card-Titel{
     font-size: xx-large;
     text-align: center;
-    margin-top: 50px;
-    margin-bottom: 5px;
+    margin-top: 0px;
     max-width: 1200px;
     margin: 0 auto;
 
 }
 .card-section{
-    display: flex;
-    align-content: center;
+display: flex;
+    align-items: center;
     justify-content: space-around;
     padding: 40px 10px;
     max-width: 1200px;
